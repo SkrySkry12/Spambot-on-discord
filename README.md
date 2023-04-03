@@ -1,6 +1,10 @@
 # Spambot-on-discord
  Discord bot spam at dm with prefix or slash command
 
+# Requirements
+ - Nextcord
+ - OS
+ - python-dotenv
 
 # How to create a bot
  You need to create application at https://discord.com/developers/applications copy token and put in .env file
